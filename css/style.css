@@ -1,0 +1,13 @@
+/*Фон для секций*/
+
+.section:first-child {
+  background: #ffffff;
+}
+
+.section:nth-child(2) {
+  background: #ffffff;
+}
+
+.section:last-child {
+  background: #ffffff;
+}
